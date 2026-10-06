@@ -2,8 +2,10 @@
 A combination of filters to help make a pen have the same functionalities a mouse does for daily use. These all rely on the tablet being in relative mode and would likely break with absolute positioning.
 
 Similar filters used as templates
-[https://github.com/rinormaloku/DragThreshold](url)\n
-[https://github.com/Kuuuube/Kuuube-s-CHATTER-EXTERMINATOR](url)\n
+[https://github.com/rinormaloku/DragThreshold](url)
+
+[https://github.com/Kuuuube/Kuuube-s-CHATTER-EXTERMINATOR](url)
+
 [https://github.com/X9VoiD/VoiDPlugins](url)
 
 **Directional Binds:**
