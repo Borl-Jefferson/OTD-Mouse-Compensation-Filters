@@ -16,7 +16,7 @@ This allows you to use the previous filter one handed without needing to hold do
 I have a button on my mouse that pauses and resumes whatever media is playing and this adds that to the pen. When you swipe up or down at a certain speed it sends a menu key input which the “psp” ahk script remaps to pausing and starting the most recently played media. It works even when the cursor is frozen with Directional Binds. Also disabled when playing Osu so media isn’t spammed on and off during jumps.
 
 **Relative Drag Threshold:**  
-Identical to the normal Drag Threshold filter but works in relative mode instead. This is the first filter I modified and was used as a template for Velocity Controls and Gesture Swipe. 
+Identical to the normal Drag Threshold filter but works in relative mode instead. This is the first filter I modified and was used as a template for Velocity Controls and Gesture Swipe. Lost the project folder though
 
 **Keyboard Binded Precision Control:**  
-Identical to the original Precision Control but now can be activated with keyboard binds.
+Identical to the original Precision Control but now can be activated with keyboard binds. Also lost the project folder
