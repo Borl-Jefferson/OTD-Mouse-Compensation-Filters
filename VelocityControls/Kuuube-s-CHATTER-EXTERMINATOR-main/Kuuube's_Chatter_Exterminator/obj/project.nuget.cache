@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uiZFD7wUKdU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Blast\\Downloads\\Kuuube-s-CHATTER-EXTERMINATOR-main (1)\\Kuuube-s-CHATTER-EXTERMINATOR-main\\Kuuube's_Chatter_Exterminator\\Kuuube's_CHATTER_EXTERMINATOR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Blast\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Blast\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Blast\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

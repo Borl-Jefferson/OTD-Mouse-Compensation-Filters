@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "t3Jt2FUIGZg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Blast\\Downloads\\RelativeDragThreshold-main\\DragThreshold-main\\DragThreshold\\DragThreshold.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Blast\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.27\\microsoft.netcore.app.ref.8.0.27.nupkg.sha512",
+    "C:\\Users\\Blast\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.27\\microsoft.windowsdesktop.app.ref.8.0.27.nupkg.sha512",
+    "C:\\Users\\Blast\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.27\\microsoft.aspnetcore.app.ref.8.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

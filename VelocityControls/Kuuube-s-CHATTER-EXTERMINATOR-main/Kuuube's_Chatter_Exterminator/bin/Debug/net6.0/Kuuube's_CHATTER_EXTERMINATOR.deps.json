@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Kuuube's_CHATTER_EXTERMINATOR/1.0.0": {
+        "dependencies": {
+          "OpenTabletDriver.Plugin": "0.6.0"
+        },
+        "runtime": {
+          "Kuuube's_CHATTER_EXTERMINATOR.dll": {}
+        }
+      },
+      "OpenTabletDriver.Plugin/0.6.0": {
+        "runtime": {
+          "OpenTabletDriver.Plugin.dll": {
+            "assemblyVersion": "0.6.0.0",
+            "fileVersion": "0.6.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kuuube's_CHATTER_EXTERMINATOR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OpenTabletDriver.Plugin/0.6.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

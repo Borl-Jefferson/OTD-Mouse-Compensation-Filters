@@ -1,0 +1,15 @@
+C:\Users\Blast\Downloads\Kuuube-s-CHATTER-EXTERMINATOR-main (1)\Kuuube-s-CHATTER-EXTERMINATOR-main\Kuuube's_Chatter_Exterminator\bin\Debug\net6.0\Kuuube's_CHATTER_EXTERMINATOR.deps.json
+C:\Users\Blast\Downloads\Kuuube-s-CHATTER-EXTERMINATOR-main (1)\Kuuube-s-CHATTER-EXTERMINATOR-main\Kuuube's_Chatter_Exterminator\bin\Debug\net6.0\Kuuube's_CHATTER_EXTERMINATOR.dll
+C:\Users\Blast\Downloads\Kuuube-s-CHATTER-EXTERMINATOR-main (1)\Kuuube-s-CHATTER-EXTERMINATOR-main\Kuuube's_Chatter_Exterminator\bin\Debug\net6.0\Kuuube's_CHATTER_EXTERMINATOR.pdb
+C:\Users\Blast\Downloads\Kuuube-s-CHATTER-EXTERMINATOR-main (1)\Kuuube-s-CHATTER-EXTERMINATOR-main\Kuuube's_Chatter_Exterminator\bin\Debug\net6.0\OpenTabletDriver.Plugin.dll
+C:\Users\Blast\Downloads\Kuuube-s-CHATTER-EXTERMINATOR-main (1)\Kuuube-s-CHATTER-EXTERMINATOR-main\Kuuube's_Chatter_Exterminator\bin\Debug\net6.0\OpenTabletDriver.Plugin.pdb
+C:\Users\Blast\Downloads\Kuuube-s-CHATTER-EXTERMINATOR-main (1)\Kuuube-s-CHATTER-EXTERMINATOR-main\Kuuube's_Chatter_Exterminator\obj\Debug\net6.0\Kuuube's_CHATTER_EXTERMINATOR.csproj.AssemblyReference.cache
+C:\Users\Blast\Downloads\Kuuube-s-CHATTER-EXTERMINATOR-main (1)\Kuuube-s-CHATTER-EXTERMINATOR-main\Kuuube's_Chatter_Exterminator\obj\Debug\net6.0\Kuuube's_CHATTER_EXTERMINATOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blast\Downloads\Kuuube-s-CHATTER-EXTERMINATOR-main (1)\Kuuube-s-CHATTER-EXTERMINATOR-main\Kuuube's_Chatter_Exterminator\obj\Debug\net6.0\Kuuube's_CHATTER_EXTERMINATOR.AssemblyInfoInputs.cache
+C:\Users\Blast\Downloads\Kuuube-s-CHATTER-EXTERMINATOR-main (1)\Kuuube-s-CHATTER-EXTERMINATOR-main\Kuuube's_Chatter_Exterminator\obj\Debug\net6.0\Kuuube's_CHATTER_EXTERMINATOR.AssemblyInfo.cs
+C:\Users\Blast\Downloads\Kuuube-s-CHATTER-EXTERMINATOR-main (1)\Kuuube-s-CHATTER-EXTERMINATOR-main\Kuuube's_Chatter_Exterminator\obj\Debug\net6.0\Kuuube's_CHATTER_EXTERMINATOR.csproj.CoreCompileInputs.cache
+C:\Users\Blast\Downloads\Kuuube-s-CHATTER-EXTERMINATOR-main (1)\Kuuube-s-CHATTER-EXTERMINATOR-main\Kuuube's_Chatter_Exterminator\obj\Debug\net6.0\Kuuube's.E52C57B7.Up2Date
+C:\Users\Blast\Downloads\Kuuube-s-CHATTER-EXTERMINATOR-main (1)\Kuuube-s-CHATTER-EXTERMINATOR-main\Kuuube's_Chatter_Exterminator\obj\Debug\net6.0\Kuuube's_CHATTER_EXTERMINATOR.dll
+C:\Users\Blast\Downloads\Kuuube-s-CHATTER-EXTERMINATOR-main (1)\Kuuube-s-CHATTER-EXTERMINATOR-main\Kuuube's_Chatter_Exterminator\obj\Debug\net6.0\refint\Kuuube's_CHATTER_EXTERMINATOR.dll
+C:\Users\Blast\Downloads\Kuuube-s-CHATTER-EXTERMINATOR-main (1)\Kuuube-s-CHATTER-EXTERMINATOR-main\Kuuube's_Chatter_Exterminator\obj\Debug\net6.0\Kuuube's_CHATTER_EXTERMINATOR.pdb
+C:\Users\Blast\Downloads\Kuuube-s-CHATTER-EXTERMINATOR-main (1)\Kuuube-s-CHATTER-EXTERMINATOR-main\Kuuube's_Chatter_Exterminator\obj\Debug\net6.0\ref\Kuuube's_CHATTER_EXTERMINATOR.dll
